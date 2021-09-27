@@ -1,4 +1,4 @@
-// import './style.css';
+import './style.css';
 import CardGame from '../CardGame';
 
 const CardFrontBack = () => {
